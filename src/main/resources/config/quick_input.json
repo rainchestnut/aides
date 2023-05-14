@@ -1,0 +1,9 @@
+[
+  {
+    "desc": "打开百度",
+    "values": [
+      "htt://www.baidu.com",
+      "@keyEvent(VK_ENTER)"
+    ]
+  }
+]
